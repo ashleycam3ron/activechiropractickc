@@ -1,0 +1,20 @@
+/* 
+Theme Name:Active Chiropractic
+Theme URI:http://activechiropractickc.com
+Description:A custom theme for Dr. Steve Anderson
+Author:Ashley N. Cameron
+Template:twentyeleven
+Author URI:http://ashley-cameron.com
+Version:2.0
+*/
+
+/* HOME PAGE CIRCLES */
+ul#circles{float: right;padding-right:5px;width:600px;}
+ul#circles li{width:175px;height:175px;position:relative;float:left;margin-right:22px;}
+ul#circles li:last-child{margin:0;}
+ul#circles li a{display:inline-block;float:left;background:url(images/graphic1.jpg) no-repeat #231F20 top left;width:176px;height:176px;}
+ul#circles li a#whatis{background-position:top center;}
+ul#circles li a#tips{background-position:top right;}
+	ul#circles li a:hover {background-position:-176px left;}
+	ul#circles li a#whatis:hover {background-position:-181px -177px;}
+	ul#circles li a#tips:hover {background-position:-177px right;}

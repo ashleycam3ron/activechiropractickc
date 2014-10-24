@@ -1,0 +1,33 @@
+/* CSS Document */
+#adminmenuback, #adminmenuwrap, #adminmenu, .js.folded #adminmenu .wp-submenu.sub-open, .js.folded #adminmenu .wp-submenu-wrap {
+	
+}
+#wpcontent, #footer {
+	
+}
+#custom_right_now td.b a{
+	color:#21759B;
+	text-decoration:none;
+	white-space:nowrap;
+	font-size:18px;
+}
+#custom_right_now td.b {
+  font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+  font-size: 14px;
+  padding-right: 6px;
+  text-align: right;
+  width: 1%;
+}
+#custom_right_now table tr.first td {
+  border-top: medium none;
+}
+#custom_right_now .t {
+  color: #777777;
+  font-size: 12px;
+  padding-right: 12px;
+  padding-top: 6px;
+}
+#custom_right_now table td {
+  padding: 3px 0;
+  white-space: nowrap;
+}
